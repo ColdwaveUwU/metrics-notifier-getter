@@ -1,0 +1,29 @@
+[
+    {
+        "modelName": "model1",
+        "metrics": {
+            "metric1": 0.1,
+            "metric2": 1.1,
+            "metric3": 1
+        },
+        "dataType": "default"
+    },
+    {
+        "modelName": "model2",
+        "metrics": {
+            "metric1": 0.2,
+            "metric2": 1.2,
+            "metric3": 1
+        },
+        "dataType": "default"
+    },
+    {
+        "modelName": "model3",
+        "metrics": {
+            "metric1": 0.3,
+            "metric2": 1.3,
+            "metric3": 1
+        },
+        "dataType": "percent"
+    }
+]

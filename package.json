@@ -1,0 +1,23 @@
+{
+  "name": "metrics-notifier-getter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanDiegoss/metrics-notifier-getter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanDiegoss/metrics-notifier-getter/issues"
+  },
+  "homepage": "https://github.com/SanDiegoss/metrics-notifier-getter#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
